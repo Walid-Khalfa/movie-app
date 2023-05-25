@@ -6,7 +6,7 @@ This is a simple React-based web application that displays a list of movies fetc
 
 To get started with this app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Walid-Khalfa/React_Movie_App.git`
+1. Clone the repository: `git clone https://github.com/Walid-Khalfa/movie-app.git`
 2. Install dependencies: `npm install`
 3. Obtain an API key from [The Movie Database](https://www.themoviedb.org/documentation/api) and add it to the `.env` file in the root directory of the project: `REACT_APP_API_KEY=YOUR_API_KEY_HERE`
 4. Start the development server: `npm start`
